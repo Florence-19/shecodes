@@ -1,0 +1,17 @@
+* {
+  margin: 2px;
+}
+
+h1 {
+  color: aqua;
+  font-size: 60px;
+  text-align: center;
+  text-decoration: wavy;
+  background-color: bisque;
+  width: 100%;
+  border-radius: 40px;
+}
+
+li {
+  list-style: none;
+}
